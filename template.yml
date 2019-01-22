@@ -1,7 +1,8 @@
 id: minimal
+version: 1.0.0
 name: Minimal template
 author: Flourish team
-sdk_version: 2
+sdk_version: 3
 
 settings:
   - property: number
